@@ -1,4 +1,4 @@
-# -Power-BI-Project-Sales-Dashboard-2023-24-
+# sales-dashboard-powerbi
 
 Description:
 This repository showcases a Power BI Sales Dashboard that provides insights into total sales, costs, profit, brand performance, and category-wise sales trends. The dashboard uses DAX functions, data modeling, and interactive visuals to display key business metrics.
